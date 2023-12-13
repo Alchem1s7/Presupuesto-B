@@ -66,6 +66,7 @@ Once the database is created and the script is executed, it will display the fol
 
 _ **Instructions in the terminal at the time of execution of the dashboard** _
 
+![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/9722df61-c19e-4d36-b89c-d5907540571b)
 
 
 
@@ -76,6 +77,7 @@ It is only necessary to enter the name of the database, since the other connecti
 
 _ **Editable connection parameters to establish the same.** _
 
+![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/a9a4fd97-eaf4-46f1-9baa-509d905ef936)
 
 
 
@@ -102,6 +104,7 @@ In addition, there must be two Excel .xlsx files, one for the historical data ca
 
 _ **Example of the contents of the "Ins" folder.** _
 
+![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/48b5f7bc-c0d6-4c0c-b7ad-6a46cf84812e)
 
 
 
@@ -122,6 +125,7 @@ The Python script is designed to provide the name of the database and the path t
 
 _ **Section of code where all the functions that are responsible for the ETL process are called.** _
 
+![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/96f0e302-b1c0-4466-9864-ef70e9c2a0e2)
 
 
 
@@ -133,10 +137,12 @@ Once the ETL is finished, the following message will be displayed on the termina
 
 
 _ **Process completion message** _
+![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/359acb03-a6ea-4a5d-ba72-6bbddcf5ee16)
 
 
-or of databases showing the loaded entities.** _
+ **Database manager interface showing the loaded entities.** 
 
+![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/460fa41d-b1e6-4f94-8c30-0efe8ddbba7d)
 
 
 
@@ -145,6 +151,7 @@ or of databases showing the loaded entities.** _
 
 _ **Relational model loaded in Power Bi** _
 
+![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/165c225e-65df-4cfe-9724-12993cb586a6)
 
 
 
@@ -169,9 +176,7 @@ The main script used in .py
 
 
 
-
-
-_ **Gest interface
+The figures are censored because the information is private.
 The main menu:
 ![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/bd5e2931-a465-45a2-938e-68c1df3e0e71)
 
