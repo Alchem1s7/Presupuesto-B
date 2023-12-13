@@ -174,17 +174,16 @@ The main script used in .py
 _ **Gest interface
 The main menu:
 ![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/bd5e2931-a465-45a2-938e-68c1df3e0e71)
+
 General:
 ![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/02540ecd-f4f1-4bdb-840e-8fa7267bb21e)
-
 ![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/da78025c-cf54-4284-a38b-596d1ef67e6f)
 
-![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/8dae6354-8524-4e94-bf1b-3fc5f05c677a)
+Mobile version:
+![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/ab3c51e5-8c55-49bd-8be5-ad4bd63d1b5c)
 
 An example of the division of sectors:
 ![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/f6a4a075-886d-4dee-ab52-c662fd9de2e7)
 
-
 The data model:
-
 ![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/bfe36781-5c6c-4e55-81ed-cfc144be416f)
