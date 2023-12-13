@@ -136,7 +136,8 @@ Once the ETL is finished, the following message will be displayed on the termina
 
 
 
-_ **Process completion message** _
+ **Process completion message** 
+ 
 ![image](https://github.com/Alchem1s7/Presupuesto-B/assets/100399598/359acb03-a6ea-4a5d-ba72-6bbddcf5ee16)
 
 
